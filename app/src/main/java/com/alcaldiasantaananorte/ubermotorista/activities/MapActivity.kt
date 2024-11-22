@@ -198,9 +198,6 @@ class MapActivity : AppCompatActivity(), OnMapReadyCallback, Listener {
         }
         googleMap?.isMyLocationEnabled = false // OCULTAR PUNTO AZUL
 
-
-
-
     }
 
     override fun locationOn() {
