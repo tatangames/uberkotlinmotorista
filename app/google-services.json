@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "783692815488",
-    "project_id": "uberclone-bf6d9",
-    "storage_bucket": "uberclone-bf6d9.firebasestorage.app"
+    "project_number": "697812221943",
+    "project_id": "nortego-41cf5",
+    "storage_bucket": "nortego-41cf5.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:783692815488:android:89cd6ba74a136a1d3d9a65",
+        "mobilesdk_app_id": "1:697812221943:android:e45068f46e42b2e851f8f2",
         "android_client_info": {
           "package_name": "com.alcaldiasantaananorte.ubermotorista"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDohlmlyz98Q4WoMwqf_A6NblHdTMCF1I0"
+          "current_key": "AIzaSyBJ4r7oK8HCQfKzSQrooFVeo48SbwpwcKQ"
         }
       ],
       "services": {
@@ -26,15 +26,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:783692815488:android:235913d1bf65aeb33d9a65",
+        "mobilesdk_app_id": "1:697812221943:android:e2f62ed1df32c37551f8f2",
         "android_client_info": {
-          "package_name": "com.santaananortemetapan.uberclone"
+          "package_name": "com.santaananortemetapan.nortego"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDohlmlyz98Q4WoMwqf_A6NblHdTMCF1I0"
+          "current_key": "AIzaSyBJ4r7oK8HCQfKzSQrooFVeo48SbwpwcKQ"
         }
       ],
       "services": {

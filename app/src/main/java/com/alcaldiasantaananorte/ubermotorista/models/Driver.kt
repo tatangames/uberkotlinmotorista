@@ -6,8 +6,9 @@ private val klaxon = Klaxon()
 
 data class Driver (
     val id: String? = null,
-    val name: String? = null,
-    val email: String? = null,
+    val nombre: String? = null,
+    val descripcion: String? = null,
+    val tipo: Int? = null,
 ) {
     fun toJson() = klaxon.toJsonString(this)
 

@@ -67,9 +67,11 @@ class RegisterActivity : AppCompatActivity() {
             if(it.isSuccessful){
                 val driver = Driver(
                     id = authProvider.getId(),
-                    name = name,
-                    email = email
+                    nombre = "Texistepeque 2",
+                    descripcion = "Recolector 2",
+                    tipo = 2
                 )
+
                 driverProvider.create(driver).addOnCompleteListener {
                     if (it.isSuccessful) {
                         Toast.makeText(this@RegisterActivity, "Registro exitosoo", Toast.LENGTH_SHORT).show()
